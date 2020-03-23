@@ -1,4 +1,4 @@
-#Create a Linear Scale with D3
+# Create a Linear Scale with D3
 
 <body>
   <script>

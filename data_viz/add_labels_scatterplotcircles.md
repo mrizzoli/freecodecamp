@@ -1,4 +1,4 @@
-#Data Visualization with D3: Add Labels to Scatter Plot Circles
+# Data Visualization with D3: Add Labels to Scatter Plot Circles
 
 <body>
   <script>

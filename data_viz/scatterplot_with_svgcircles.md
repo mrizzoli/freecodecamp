@@ -1,4 +1,4 @@
-#Create a Scatterplot with SVG Circles
+# Create a Scatterplot with SVG Circles
 
 <body>
   <script>
