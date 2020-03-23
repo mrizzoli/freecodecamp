@@ -2,6 +2,7 @@
 
 <body>
   <script>
+  
     // Add your code below this line
 
     const scale = d3.scaleLinear(); // Create the scale here
