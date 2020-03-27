@@ -1,8 +1,8 @@
-# Data Visualization with D3: Add Labels to Scatter Plot Circles
+# Add Labels to Scatter Plot Circles
 
 <body>
   <script>
-  
+
     const dataset = [
                   [ 34,    78 ],
                   [ 109,   280 ],
